@@ -4,7 +4,7 @@ Supplementary material of the paper Dark Patterns in Games: An Empirical Study o
 
 ### Dark Patterns in Games
 Full version of the catalog with Dark Patterns in Games definitions and examples.
-1. [Full version](./Dark_Patterns_in_Games_Catalog)
+1. [Full version](./Dark_Patterns_in_Games_Catalog.pdf)
 
 ### Results
 Results of the quantitative analysis.
