@@ -13,4 +13,5 @@ Results of the quantitative analysis.
 ### Survey
 Survey's questions and participants characterization.
 1. [Questionnaire](./Survey_Questions.pdf)
+1. [Answers](./Survey_Answers.xlsx)
 1. [Participants Characterization](./Participants_Characterization.pdf)
